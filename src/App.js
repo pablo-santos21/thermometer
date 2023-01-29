@@ -20,7 +20,6 @@ import {
   BsWater,
   BsThermometer,
   BsWind,
-  BsSnow,
 } from 'react-icons/bs';
 
 import { TbTemperatureCelsius } from 'react-icons/tb';
