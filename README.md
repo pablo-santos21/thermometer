@@ -1,3 +1,8 @@
+## Projeto Rodando
+
+https://projeto-thermometer-psantos.netlify.app/
+
+
 ## Sobre o projeto
 
 O app Termometro se trata de uma card simples, com visual clean. Foi criada para aprimorar meus estudos em React e Tailwind.
